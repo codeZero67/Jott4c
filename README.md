@@ -1,12 +1,17 @@
 <div align="center">
+  <!-- Top Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Junior%20Alencar&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+
+  <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vcenter=true&width=600&lines=Oi%2C+sou+Junior+Alencar!+%F0%9F%90%8B;Full-stack+Developer;React+%7C+Next.js+%7C+Node.js;Construindo+experi%C3%AAncias+web+modernas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vcenter=true&width=600&lines=Oi%2C+sou+Junior+Alencar!+%F0%9F%90%8B;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Construindo+experi%C3%AAncias+web+modernas" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    Desenvolvedor Full-Stack focado na criação de aplicações web modernas, de alta performance e com excelente experiência do usuário.
+    <b>Desenvolvedor Full-Stack</b> focado na criação de aplicações web modernas, de alta performance e com excelente experiência do usuário.
   </p>
 
+  <!-- Social Badges & Visitor Count -->
   <p align="center">
     <a href="https://linkedin.com/in/jralencar" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,6 +22,7 @@
     <a href="https://instagram.com/juniior.alencar" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=codeZero67&color=6366f1&style=for-the-badge&label=VISITANTES" alt="Visitantes" />
   </p>
 </div>
 
@@ -24,10 +30,10 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 **Atualmente:** Desenvolvendo aplicações web completas com **React**, **Next.js** e **Node.js**.
-- 🧠 **Estudando & Evoluindo:** Arquitetura de software, otimização de performance web, testes e sistemas escaláveis.
+- 🔭 **Atualmente:** Desenvolvendo aplicações web de ponta a ponta com **React**, **Next.js**, **TypeScript** e **Node.js**.
+- 🧠 **Estudando & Evoluindo:** Arquitetura de Software, Clean Code, Performance Web e Sistemas Escaláveis.
 - 💬 **Domínio:** TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS e APIs RESTful.
-- ⚡ **Diferencial:** Foco em código limpo, componentização reutilizável e interfaces responsivas.
+- ⚡ **Diferencial:** Foco em código limpo, excelente componentização, acessibilidade e interfaces responsivas.
 
 ---
 
@@ -38,7 +44,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -47,13 +53,13 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white)
 
 #### **Ferramentas & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -63,8 +69,8 @@
 
 <div align="center">
   <a href="https://github.com/codeZero67">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeZero67&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeZero67&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=codeZero67&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=codeZero67&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 </div>
 
@@ -72,7 +78,17 @@
 
 <div align="center">
   <a href="https://github.com/codeZero67">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeZero67&theme=tokyonight&hide_border=true" alt="Streak de Commits" />
+    <img src="https://streak-stats.demolab.com/?user=codeZero67&theme=tokyonight&hide_border=true" alt="Streak de Commits" />
+  </a>
+</div>
+
+---
+
+### 📈 Gráfico de Atividade de Commits
+
+<div align="center">
+  <a href="https://github.com/codeZero67">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeZero67&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfico de Atividades" />
   </a>
 </div>
 
